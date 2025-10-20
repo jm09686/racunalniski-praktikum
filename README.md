@@ -4,3 +4,4 @@
 - `Ctrl` + `N` - ustvari novo datoteko
 
 2. domača naloga
+.
